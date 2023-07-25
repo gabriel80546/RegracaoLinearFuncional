@@ -1,0 +1,2 @@
+# RegracaoLinearFuncional
+RegracaoLinearFuncional
